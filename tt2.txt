@@ -1,4 +1,7 @@
 some text
  line 2
+<<<<<<< HEAD
 ppp 
 immaine
+=======
+ppp
