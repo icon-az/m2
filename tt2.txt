@@ -1,5 +1,9 @@
 some text
  line 2
+<<<<<<< HEAD
+ppp 
+immaine
+=======
 ppp
-
-aaw2a
+main 2
+Now adding from b2
