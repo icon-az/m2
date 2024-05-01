@@ -1,6 +1,0 @@
-some text
- line 2
-ppp
-main 2
-Now adding from b2
-why not in main?
